@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Aplicatie</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_pagina1">pagina</string>
+    
+    <string name="options">Aplicatie </string>
+    <string android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/string1" name="Ok">Ok</string>
+    <string android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/string1" name="mesaj">Esti sigur de asta?</string>
+    <string android:id="@+id/string1" android:layout_height="wrap_content" android:layout_width="wrap_content" name="No">No</string>
+</resources>
